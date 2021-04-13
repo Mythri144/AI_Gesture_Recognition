@@ -1,0 +1,45 @@
+body{
+  background-size: cover;
+  background-position: center;
+  font-family: 'New Tegomin', serif;
+}
+
+.header{
+  font-size: 30px;
+  box-shadow: 5px 5px 5px rgb(70, 70, 70);
+  color: whitesmoke;
+  width: 100%;
+  margin: 0;
+  word-wrap: break-word;
+  border-radius: 10px;
+}
+
+.note, #square_size{
+  font-size: 16px;
+  color: black;
+}
+
+.footer{
+  position: fixed;
+  color: black;
+  font-weight: bolder;
+  background-color: rgb(146, 207, 207);
+  text-align: center;
+  line-height: 3;
+  bottom: 0;
+  width: 100%;
+  font-size: 17px;
+  border-radius: 10px;
+}
+
+canvas{
+  border: 5px solid rgb(12, 194, 211);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(70, 70, 70);
+}
+
+video{
+  border: 5px solid rgb(12, 194, 211);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(70, 70, 70);
+}
